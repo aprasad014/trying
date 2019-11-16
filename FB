@@ -1,6 +1,0 @@
-git clone git@github.com:mobeigi/fb2cal.git
-
-cd fb2cal
-
-cp config/config-template.ini config/config.ini
-vim config/config.ini
